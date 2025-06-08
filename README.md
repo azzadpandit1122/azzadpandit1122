@@ -24,5 +24,4 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/azzadpandit?theme=unicorn&font=Squada%20One)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzadpandit1122&show_icons=true&locale=en&layout=compact" alt="azzadpandit1122" /></p>
 
