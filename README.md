@@ -24,8 +24,6 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/azzadpandit?theme=unicorn&font=Squada%20One)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azzadpandit1122&show_icons=true&locale=en&layout=compact" alt="azzadpandit1122" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azzadpandit1122&show_icons=true&locale=en" alt="azzadpandit1122" /></p>
