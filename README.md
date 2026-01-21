@@ -31,7 +31,6 @@
 
 | App Logo | App Name | Play Store Link |
 | :---: | :--- | :--- |
-| <img src="https://api.microlink.io/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.savesage.club&screenshot=true&embed=screenshot.url" width="600" height="300" style="border-radius:15%;"> | **SaveSage Club** | [Link](https://play.google.com/store/apps/details?id=com.savesage.club) |
 | <img src="https://api.microlink.io/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.fleethunt.neo&screenshot=true&embed=screenshot.url" width="600" height="300" style="border-radius:15%;"> | **FleetHunt Neo** | [Link](https://play.google.com/store/apps/details?id=com.fleethunt.neo) |
 | <img src="https://api.microlink.io/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.vicart.photo.color.changer&screenshot=true&embed=screenshot.url" width="600" height="300" style="border-radius:15%;"> | **Photo Color Changer** | [Link](https://play.google.com/store/apps/details?id=com.vicart.photo.color.changer) |
 | <img src="https://api.microlink.io/?url=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.colorchanger.haircoloring&screenshot=true&embed=screenshot.url" width="600" height="300" style="border-radius:15%;"> | **Hair Coloring** | [Link](https://play.google.com/store/apps/details?id=com.colorchanger.haircoloring) |
